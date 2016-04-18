@@ -1,0 +1,13 @@
+{
+  "name": "slack-djkhaled",
+  "version": "0.0.1",
+  "description": “Get Dj Khaled content and post to Slack.",
+  "main": "blessup.js",
+  "author": “cpainwebb”,
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cheerio": "latest",
+    "express": "latest",
+    "request": "latest"
+  }
+}
